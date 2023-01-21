@@ -1,4 +1,4 @@
-This project consists in optimizing the C code "body.c".
+This project consists in optimizing the C code "nbody.c".
 
 At each optimization, we provide the final result in order to know if it is effective or not.
 
